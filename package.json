@@ -6,8 +6,8 @@
     "lib": "lib"
   },
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
   "author": "Kevin De Leon",
   "license": "ISC",
